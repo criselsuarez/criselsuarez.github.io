@@ -2,7 +2,7 @@
 layout: post
 author: criselsuarez
 title: "Simulating Solar Flare Irradiance with Multithreaded Models of Flare Arcades"
-date: '2020-05-21' 
+date: '2023-10-08'
 thumbnail: /assets/img/posts/ebtel_qpps.png
 category: ['science', 'coauthor']
 summary: Hydrodynamical simulations in Soft X-ray Flares
