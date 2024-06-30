@@ -62,13 +62,13 @@ author_education_details:
                 college_degree: Mathematics
                 description: Bachelor of Science
                 visibility: true
-              - college_logo: FISK_LOGO.png
+              - college_logo: FISK_LOGO2.png
                 college_name: Fisk University
                 college_url: https://www.fisk.edu/
                 college_degree: Physics
                 description: Masters of Science
                 visibility: true
-              - college_logo: VandyLogo.png
+              - college_logo: VandyLogo2.png
                 college_name: Vanderbilt University
                 college_url: https://www.vanderbilt.edu/
                 college_degree: Physics
