@@ -26,9 +26,7 @@ urls:
 
 author_logo: about_me_image.jpg
 author: Crisel Suarez
-author_bio: ¡Hola! I’m Crisel. I’m a Physics PhD candidate at Vanderbilt University and Smithsonian Astrophysical Observatory Predoctoral Fellow. I study high energy events in the Sun called Solar Flares.
-
-¡Hola! Soy Crisel. Soy una candidata de doctorado en Física en la Universidad de Vanderbilt y becario predoctoral del Observatorio Astrofísico Smithsonian. Estudio erupciones solares de alta energía. # Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio: ¡Hola! I’m Crisel. I’m a Physics PhD candidate at Vanderbilt University and Smithsonian Astrophysical Observatory Predoctoral Fellow. I study high energy events in the Sun called Solar Flares. ¡Hola! Soy Crisel. Soy una candidata de doctorado en Física en la Universidad de Vanderbilt y becario predoctoral del Observatorio Astrofísico Smithsonian. Estudio erupciones solares de alta energía. # Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "criselsuarez[at]gmail[dot]com"
 #author_location: India
 author_website_url: "https://criselsuarez.github.io"
