@@ -30,16 +30,16 @@ author_bio: ¡Hola! My name is Crisel Suarez. :D # Hi, my name is John Doe. I bu
 author_email: "criselsuarez[at]gmail[dot]com"
 #author_location: India
 author_website_url: "https://criselsuarez.github.io"
-typewrite-text: Welcome to my website!# devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: Welcome to my website! # devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: SDO-AIA.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Center for Astrophyscis Harvard & Smithsonian
+              company_logo: cfa_logo_vertical.jpg
+              company_url: https://www.cfa.harvard.edu/
+              designation: Predoctoral Fellow
+              #description: Worked on various Google Products
               visibility: true
             - company_name: Microsoft
               company_logo: microsoft.png
@@ -50,11 +50,23 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: STE-austin.jpg
+                college_name: St. Edwards University
+                college_url: https://www.stedwards.edu/
+                college_degree: Mathematics
+                description: Bachelor of Science
+                visibility: true
+                - college_logo: FISK_LOGO.png
+                college_name: Fisk University
+                college_url: https://www.fisk.edu/
+                college_degree: Physics
+                description: Master of Science
+                visibility: true
+                - college_logo: VandyLogo.png
+                college_name: Vanderbilt University
+                college_url: https://www.vanderbilt.edu/
+                college_degree: Physics
+                description: Doctor of Philosophy
                 visibility: true
 
 # Projects
