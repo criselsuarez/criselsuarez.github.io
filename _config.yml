@@ -1,9 +1,9 @@
-title: Crisel Suarez
-subtitle: Crisel Suarez website
-#description: >- # this means to ignore newlines until "baseurl:"
- # devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+title: devlopr
+subtitle: A Portfolio Jekyll Theme Built for Developers
+description: >- # this means to ignore newlines until "baseurl:"
+  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" #https://criselsuarez.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -24,31 +24,22 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-<<<<<<< HEAD
-author_logo: about_me_image.jpg
-=======
 author_logo: profile.png
->>>>>>> parent of 9ab1a95 (adding images)
-author: Crisel Suarez
-author_bio: ¡Hola! My name is Crisel Suarez. :D
-author_email: "criselsuarez[at]gmail[dot]com"
-#author_location: India
-author_website_url: "https://github.com/criselsuarez"
-<<<<<<< HEAD
-typewrite-text: Welcome to my website! #devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: SDO-AIA.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
-=======
-#typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: John Doe
+author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_email: "mail@sujaykundu.com"
+author_location: India
+author_website_url: "https://sujaykundu.com"
+typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
->>>>>>> parent of 9ab1a95 (adding images)
 
 # Experiences
 author_work_experiences:
-            - company_name: Center for Astrophyscis Harvard & Smithsonian
-              company_logo: cfa_logo_vertical.jpg
-              company_url: https://www.cfa.harvard.edu/
-              designation: Predoctoral Fellow
-              #description: Worked on various Google Products
+            - company_name: Google
+              company_logo: google.png
+              company_url: https://google.com
+              designation: Software Engineer
+              description: Worked on various Google Products
               visibility: true
             - company_name: Microsoft
               company_logo: microsoft.png
@@ -59,23 +50,11 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: STE-austin.jpg
-                college_name: St. Edwards University
-                college_url: https://www.stedwards.edu/
-                college_degree: Mathematics
-                description: Bachelor of Science
-                visibility: true
-                - college_logo: FISK_LOGO.png
-                college_name: Fisk University
-                college_url: https://www.fisk.edu/
-                college_degree: Physics
-                description: Master of Science
-                visibility: true
-                - college_logo: VandyLogo.png
-                college_name: Vanderbilt University
-                college_url: https://www.vanderbilt.edu/
-                college_degree: Physics
-                description: Doctor of Philosophy
+              - college_logo: mit.png
+                college_name: MIT
+                college_url: https://mit.org
+                college_degree: CS Engineer
+                description: Bachelor of Technology
                 visibility: true
 
 # Projects
@@ -92,16 +71,16 @@ author_project_details:
                 visibility: true
 
 # social links
-#twitter_username: johndoe
-github_username:  criselsuarez
-#facebook_username: johndoe
-linkedin_username: crisel-suarez-0714
-#behance_username: johndoe
-#instagram_username: johndoe
-#medium_username: johndoe
-#telegram_username: johndoe
-#dribbble_username: johndoe
-#flickr_username: johndoe
+twitter_username: johndoe
+github_username:  sujaykundu777
+facebook_username: johndoe
+linkedin_username: johndoe
+behance_username: johndoe
+instagram_username: johndoe
+medium_username: johndoe
+telegram_username: johndoe
+dribbble_username: johndoe
+flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -109,17 +88,17 @@ linkedin_username: crisel-suarez-0714
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: criselsuarez
+wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-#formspree_email: johndoe@gmail.com
+formspree_email: johndoe@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
-olvy_organization: abcabc
+olvy_organization: devlopr
 olvy_widget_type: sidebar
 
 # syntax highlighter
