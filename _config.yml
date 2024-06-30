@@ -24,14 +24,23 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
+<<<<<<< HEAD
 author_logo: about_me_image.jpg
+=======
+author_logo: profile.png
+>>>>>>> parent of 9ab1a95 (adding images)
 author: Crisel Suarez
 author_bio: ¡Hola! My name is Crisel Suarez. :D
 author_email: "criselsuarez[at]gmail[dot]com"
 #author_location: India
 author_website_url: "https://github.com/criselsuarez"
+<<<<<<< HEAD
 typewrite-text: Welcome to my website! #devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: SDO-AIA.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+=======
+#typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+>>>>>>> parent of 9ab1a95 (adding images)
 
 # Experiences
 author_work_experiences:
