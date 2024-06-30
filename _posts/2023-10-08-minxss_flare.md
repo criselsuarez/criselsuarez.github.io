@@ -5,7 +5,7 @@ title: "Estimations of Elemental Abundances during Solar Flares Observed in Soft
 date: '2020-10-24 10:35:23 +0530'
 thumbnail: /assets/img/posts/minxss1_paper.png
 summary: Elemental Abundances and in Soft X-ray Flares
-keywords: : Solar x-ray flares (1816), Solar flare spectra (1982), Solar abundances (1474)
+keywords: Solar x-ray flares (1816), Solar flare spectra (1982), Solar abundances (1474)
 permalink: /blog/minxss_flares_elemental_abundances/
 ---
 # [Estimations of Elemental Abundances during Solar Flares Observed in Soft X-Rays by the MinXSS-1 CubeSat Mission](https://iopscience.iop.org/article/10.3847/1538-4357/acf0c2)
