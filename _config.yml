@@ -56,7 +56,12 @@ author_education_details:
                 college_degree: Mathematics
                 description: Bachelor of Science
                 visibility: true
-          
+           - college_logo: FISK_LOGO.png
+                college_name: Fisk University
+                college_url: https://www.fisk.edu/
+                college_degree: Physics
+                description: Master of Science
+                visibility: true
 # Projects
 author_project_details:
               - project_thumbnail: gamershub.png
