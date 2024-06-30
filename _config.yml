@@ -56,19 +56,7 @@ author_education_details:
                 college_degree: Mathematics
                 description: Bachelor of Science
                 visibility: true
-                - college_logo: FISK_LOGO.png
-                college_name: Fisk University
-                college_url: https://www.fisk.edu/
-                college_degree: Physics
-                description: Master of Science
-                visibility: true
-                - college_logo: VandyLogo.png
-                college_name: Vanderbilt University
-                college_url: https://www.vanderbilt.edu/
-                college_degree: Physics
-                description: Doctor of Philosophy
-                visibility: true
-
+          
 # Projects
 author_project_details:
               - project_thumbnail: gamershub.png
