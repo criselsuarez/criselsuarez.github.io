@@ -6,7 +6,7 @@ date: '2020-05-21'
 thumbnail: /assets/img/posts/ebtel_qpps.png
 category: ['science', 'coauthor']
 summary: Hydrodynamical simulations in Soft X-ray Flares
-keywords: : Solar x-ray flares (1816); Solar flares (1496); Hydrodynamical simulations (767)
+keywords: : Solar x-ray flares (1816), Solar flares (1496), Hydrodynamical simulations (767)
 permalink: /blog/multithreaded_flares_ebtel/
 ---
 # [Simulating Solar Flare Irradiance with Multithreaded Models of Flare Arcades](https://iopscience.iop.org/article/10.3847/1538-4357/ab89a0)
