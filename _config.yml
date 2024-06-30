@@ -62,6 +62,12 @@ author_education_details:
                 college_degree: Mathematics
                 description: Bachelor of Science
                 visibility: true
+              - college_logo: STE-austin.jpg
+                college_name: St. Edwards University
+                college_url: https://www.stedwards.edu/
+                college_degree: Mathematics
+                description: Bachelor of Science
+                visibility: true
 
 # Projects
 author_project_details:
