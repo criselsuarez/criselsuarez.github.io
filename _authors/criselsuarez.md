@@ -3,7 +3,7 @@ name: Crisel Suarez
 username: criselsuarez
 bio: "Hi I am Crisel Suarez!"
 site: https://criselsuarez.github.io/
-avatar: about_me_image.jpg
+avatar: about_me_image.png
 email:criselsuarez[at]gmail[dot]com
 social:
     - title: "github"
