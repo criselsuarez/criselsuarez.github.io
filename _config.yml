@@ -14,10 +14,12 @@ urls:
       url: /about
     - text: Papers
       url: /blog
-    - text: Gallery
+    - text: CV
       url: /gallery
-    - text: Shop
+    - text: Presentations
       url : /shop
+    - text: Outreach
+      url : /outreach
     - text: Contact
       url : /contact
 
@@ -94,7 +96,7 @@ linkedin_username: crisel-suarez-0714
 #hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: criselsuarez
+#wakatime_username: criselsuarez
 
 # mailchimp embedded form url (newsletter):
 #mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
@@ -119,7 +121,7 @@ show_author_project_details: true
 
 # pagination of posts
 paginate: 4
-per_page: 4
+per_page: 6
 paginate_path: "/blog/page/:num/"
 
 # minify

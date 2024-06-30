@@ -2,7 +2,7 @@
 layout: post
 author: criselsuarez
 title: "Estimations of Elemental Abundances during Solar Flares Observed in Soft X-Rays by the MinXSS-1 CubeSat Mission"
-date: '2023 October 20' 
+date: '2023-10-08' 
 thumbnail: /assets/img/posts/minxss1_paper.jpg
 category: ['science']
 summary: "Elemental Abundances and Flares"

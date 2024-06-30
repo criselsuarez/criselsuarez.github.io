@@ -32,3 +32,6 @@ $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
 - Use `k_{n+1} = n^2 + k_n^2 - k_{n-1}` to write
 
 $$k_{n+1} = n^2 + k_n^2 - k_{n-1}$$
+
+
+ADDING STUFF HERE
