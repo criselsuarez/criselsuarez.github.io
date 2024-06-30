@@ -1,15 +1,16 @@
 ---
 layout: post
-author: johndoe
-title: Netlify CMS created this Article
-date: 2020-05-23T09:52:20.613Z
+author: criselsuarez
+title: Estimations of Elemental Abundances during Solar Flares Observed in Soft X-Rays by the MinXSS-1 CubeSat Mission
+date: 2023 October 20 
 thumbnail: /assets/img/posts/hello.jpg
-category: jekyll
-summary: Demo Content using Netlify CMS
-keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how to use netlify cms
-permalink: /blog/using-netlify-cms/
+category: science paper
+summary: Elemental Abundances and Flares
+keywords: : Solar x-ray flares (1816); Solar flare spectra (1982); Solar abundances (1474)
+permalink: /blog/minxss_flares_elemental_abundances/
 ---
-## Hello World
+# Estimations of Elemental Abundances during Solar Flares Observed in Soft X-Rays by the MinXSS-1 CubeSat Mission
+### Crisel Suarez and Christopher S. Moore
 
 This page is a demo that shows everything you can do inside blog posts. Hi !
 
