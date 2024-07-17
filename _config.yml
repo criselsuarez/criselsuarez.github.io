@@ -29,11 +29,10 @@ urls:
 author_logo: about_me_image.png
 author: Crisel Suarez
 author_bio: |
-blahblah test
-test2
-test3
-
-works?
+  This is a multi-line string.
+  "special" metacharacters may
+  appear here. The extent of this string is
+  indicated by indentation. 
 author_email: "criselsuarez[at]gmail[dot]com"
 #author_location: India
 author_website_url: "https://criselsuarez.github.io"
