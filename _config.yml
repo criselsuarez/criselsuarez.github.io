@@ -32,7 +32,13 @@ author_bio: |
   This is a multi-line string.
   "special" metacharacters may
   appear here. The extent of this string is
-  indicated by indentation. 
+  indicated by indentation.
+  
+  test here new line again
+  
+  new line here
+  
+  what up I need tabs
 author_email: "criselsuarez[at]gmail[dot]com"
 #author_location: India
 author_website_url: "https://criselsuarez.github.io"
