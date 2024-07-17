@@ -11,7 +11,7 @@ permalink: /blog/minxss_flares_elemental_abundances/
 ---
 # [Estimations of Elemental Abundances during Solar Flares Observed in Soft X-Rays by the MinXSS-1 CubeSat Mission](https://iopscience.iop.org/article/10.3847/1538-4357/acf0c2)
 
-### [Crisel Suarez](https://orcid.org/0000-0001-5243-7659) and [Christopher S. Moore] (https://orcid.org/0000-0002-4103-6101)
+### [Crisel Suarez](https://orcid.org/0000-0001-5243-7659) and [Christopher S. Moore](https://orcid.org/0000-0002-4103-6101)
 
 
 
