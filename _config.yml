@@ -31,11 +31,14 @@ author: Crisel Suarez
 author_bio: |
   This is a multi-line string.
   "special" metacharacters may
-  appear here. The extent of this string is
-  indicated by indentation. \n
+  appear here. The extent of this string is <br>
+  indicated by indentation. <br>
+  
   test here new line again
-  new line here \n
-  what up I need tabs \n
+  
+    new line here \n
+  - what up I need tabs \n
+  - MABYBE JUST LIST?
 author_email: "criselsuarez[at]gmail[dot]com"
 #author_location: India
 author_website_url: "https://criselsuarez.github.io"
