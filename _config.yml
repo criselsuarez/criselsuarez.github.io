@@ -17,6 +17,7 @@ urls:
     - text: CV
       url: /gallery
     - text: Presentations
+      url: /presentations
      # url : /shop
     - text: Outreach
       url : /outreach
