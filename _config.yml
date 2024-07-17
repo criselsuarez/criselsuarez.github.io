@@ -28,7 +28,12 @@ urls:
 
 author_logo: about_me_image.png
 author: Crisel Suarez
-author_bio:
+author_bio: |
+blahblah test
+test2
+test3
+
+works?
 author_email: "criselsuarez[at]gmail[dot]com"
 #author_location: India
 author_website_url: "https://criselsuarez.github.io"
