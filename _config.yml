@@ -17,7 +17,7 @@ urls:
     - text: CV
       url: /gallery
     - text: Presentations
-      url : /shop
+     # url : /shop
     - text: Outreach
       url : /outreach
     - text: Contact
@@ -28,7 +28,15 @@ urls:
 
 author_logo: about_me_image.png
 author: Crisel Suarez
-author_bio: ¡Hola! I’m Crisel. I’m a Physics PhD candidate at Vanderbilt University and Smithsonian Astrophysical Observatory Predoctoral Fellow. I study high energy events in the Sun called Solar Flares. ¡Hola! Soy Crisel. Soy una candidata de doctorado en Física en la Universidad de Vanderbilt y becario predoctoral del Observatorio Astrofísico Smithsonian. Estudio erupciones solares de alta energía. # Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio:>- ¡Hola! My name is Crisel Suarez. I am a Physics PhD candidate at (Vanderbilt University)[https://as.vanderbilt.edu/physics-astronomy/] and (Smithsonian Astrophysical Observatory Predoctoral Fellow)[https://lweb.cfa.harvard.edu/fellowships/prrc]. I grew up in Mexico City and Austin, TX. I am fully bilingual in both Spanish and English. I earned my Bachelor’s of Science and majored in Mathematics and minored in Global Studies and Physics at a small liberal arts school called (St. Edward’s University)[https://www.stedwards.edu/]. I was a (McNair Scholar)[https://www.stedwards.edu/mcnair-scholars-program] at St. Edward’s University and pursued all types of research; from Computer Science looking at the expected values of properties in the game of __Monopoly__ (with [Dr. Michael Kart](https://www.stedwards.edu/directory/employees/kart-michael-u)), Mathematics looking at the tetrominoes (Tetris pieces) and how they form gaps and make you lose at __Tetris__ (with (Dr. Jason Callahan)[https://www.stedwards.edu/directory/employees/callahan-jason-t]), and Science Education in quantifying science literacy in undergraduates students with (with (Dr. Paul Walter)[https://scholar.google.com/citations?user=MdO0-xMAAAAJ&hl=en]. After graduating from St. Edward’s University, I went to pursue my Masters of Science in Physics at (Fisk University)[https://www.fisk.edu/] as part of the (Fisk-Vanderbilt Masters to PhD program)[https://www.fisk-vanderbilt-bridge.org/]. At Fisk, I was part of Dr. Arnold Burger’s (Materials Science and Applications Group)[https://www.fisk-vanderbilt-bridge.org/msag] where I studied the chemical composition of high energy crystal scintillators using Vanderbilt’s University high performance computing (ACCRE)[https://www.accre.vanderbilt.edu/] facilities.
+
+During the summers as a Masters student, I had the opportunity to work with (Dr. Christopher S. Moore)[https://www.christophermoorephd.com/] at the (Center for Astrophysics | Harvard & Smithsonian)[https://cfa.harvard.edu/] in the Solar Stellar X-ray Group ((SSXG)[https://lweb.cfa.harvard.edu/hea/sss/sun.html])  as part of the Fisk-Vanderbilt-CfA Latino Initiative Program (now CfA Research Experiences in Astronomy, Technology, & Engineering (CREATE)[https://pweb.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/latino-initiative-program]) program. I worked on analyzing beautiful high energy events in the Sun called solar flares. As part of PhD work at Vanderbilt University, I continued to examined ~30 soft x-ray (SXR) flares observed with the Miniature X-ray Solar Spectrometer (MinXSS-1) and derived changes in temperature, volume emission measure and elemental abundances as a function of time with parametric spectral fits. I continue to research solar flares and look for Quasi-Periodic Pulsations (QPPs) in flares with different instruments including Hinode/X-ray Telescope (Hinode/XRT), Solar Dynamic Observatory/Atmospheric Imaging Assembly (SDO/AIA), Geostationary Operational Environmental Satellite (GOES), Miniature X-ray Solar Spectrometer- 1 and 2 (MinXSS-1&2) and Dual Aperture X-ray Solar Spectrometer (DAXSS). I have also used the Hydrodynamic Radiation (HYDRAD) model to synthesize Extreme Ultraviolet (EUV) and soft x-ray (SXR) emission in solar flares.
+
+
+I also enjoy engaging in science outreach events, promoting research, curiosity, creativity and mentoring the next generation of scientists!
+When I have some rare free time, I like going to museums, shows, trying new foods, and traveling!
+
+#¡Hola! I’m Crisel. I’m a Physics PhD candidate at Vanderbilt University and Smithsonian Astrophysical Observatory Predoctoral Fellow. I study high energy events in the Sun called Solar Flares. ¡Hola! Soy Crisel. Soy una candidata de doctorado en Física en la Universidad de Vanderbilt y becario predoctoral del Observatorio Astrofísico Smithsonian. Estudio erupciones solares de alta energía. # Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "criselsuarez[at]gmail[dot]com"
 #author_location: India
 author_website_url: "https://criselsuarez.github.io"
